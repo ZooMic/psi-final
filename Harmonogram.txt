@@ -1,0 +1,11 @@
+Harmonogram projektu dla przedmiotu Podstawy Sztucznej Inteligencji
+
+03.10 - zapoznanie się z przedmiotem
+10.10 - określenie celu projektu
+17.10 - opracowanie podstawowych założeń dot. wejscia i wyjścia
+24.10 - zgromadzenie danych standaryzujacych artykuły
+31.10 - dzień wolny
+07.11 - Zgromadzenie artykułów dot [pogody, sportu, polityki]
+14.11 - Algorytm konwertujacy artykuly w ciag ustandaryzowanych liczb
+21.11 - Dobór typu sieci neuronowej
+28.11 - Implementacja sieci, analiza otrzymanych wyników
